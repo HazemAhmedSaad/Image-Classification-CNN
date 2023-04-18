@@ -1,2 +1,2 @@
 # Image-Classification-CNN
-Classification the image of player using CNN model
+Classification the image of football player using CNN model
